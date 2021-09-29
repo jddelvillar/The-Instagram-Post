@@ -1,0 +1,56 @@
+body{
+    background:black;
+    ;
+}
+.container{
+    background-color: whitesmoke;
+    margin-top: 5%;
+    margin-left: 35%;
+    margin-bottom: 1%;
+    margin-right: 35%;  
+   
+}
+
+#contain{
+    display: flex;                  /* establish flex container */
+  flex-direction: row;            /* default value; can be omitted */
+  flex-wrap: nowrap;              /* default value; can be omitted */
+  justify-content: space-between;
+}
+
+.fa-html5{
+    font-size: 80px;
+}
+
+h1{
+    display: inline-block;
+}
+
+.post-header{
+    padding: 2px 2px 2px 2px;
+    text-align: center;
+    
+}
+.puntos-listado{
+    margin-left: 30px;
+}
+.card {
+    margin-top: 1px;
+    margin-left: 1px;
+    margin-bottom: 1px;
+    margin-right: 1px;
+ }
+
+ .images{
+     padding-top: 3px;
+     padding-bottom: 3px;
+
+ }
+
+ .to-whom{
+    padding-top: 15px;
+ }
+
+ p{
+     padding-bottom: 18px;
+ }
